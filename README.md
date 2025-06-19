@@ -1,5 +1,5 @@
-# About me
 # 👋 Hello! I'm YunNKT
+# About me
 🎓 I'm a student at PTIT University  
 💻 I like Math, Data and structure
 I’m a third-year student at Posts and Telecommunications Institute of Technology (PTIT), I am currently learning **Web Backend development, data processing, and AI**. I have a good grasp of each of these skills and continue to strengthen my knowledge through hands-on projects.
